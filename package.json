@@ -1,0 +1,22 @@
+{
+  "name": "excel-to-json-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhaveshSGupta/excel-to-json-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhaveshSGupta/excel-to-json-demo/issues"
+  },
+  "homepage": "https://github.com/BhaveshSGupta/excel-to-json-demo#readme",
+  "dependencies": {
+    "simple-excel-to-json": "^2.2.1"
+  }
+}
