@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/BhaveshSGupta/excel-to-json-demo#readme",
   "dependencies": {
-    "simple-excel-to-json": "^2.2.1"
+    "simple-excel-to-json": "^2.3.0"
   }
 }
